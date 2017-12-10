@@ -1,3 +1,4 @@
+//Задание №2. Поиск максимального слова в массиве
 package MassivSlov;
 
 import java.util.Scanner;

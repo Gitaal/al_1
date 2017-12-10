@@ -1,3 +1,4 @@
+//Задание №1. Калькулятор
 package Calculator;
 
 import java.util.Scanner;
