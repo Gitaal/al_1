@@ -13,6 +13,7 @@ public class AllGift {
         price += candy1.getPrice() + jellyBelly1.getPrice() + chocolate1.getPrice();
         System.out.println("Вес подарка: " + weight);
         System.out.println("Цена подарка: " + price);
+        
         for (Gift someGift : box) {
             System.out.println("Состав коробки с подарками: " + someGift.toString());
         }
